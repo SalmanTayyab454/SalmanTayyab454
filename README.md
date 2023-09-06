@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SalmanTayyab454
+- 👋 Hi, I’m @SalmanTayyab
 - 👀 I’m interested in Web Development and mostly on the frontend side.
 - 🌱 I’m working with React.js, Vue.js, Node.js, and Jest.
 - 💞️ I’m looking to collaborate on React and Vue projects for beginners and also in Php.
